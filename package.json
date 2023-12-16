@@ -1,0 +1,15 @@
+{
+  "name": "jcr-ts-ta43-rick_morty_db-git-161223",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server ./db.json --host 0.0.0.0 --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
